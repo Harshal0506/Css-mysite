@@ -1,0 +1,125 @@
+.profile-img{
+  height: 250px;
+  border-radius: 70%;
+}
+
+.top-container{
+  background-color:#ffcbcb;
+  padding-top:100px;
+
+
+}
+.skill-row{
+  width:50%;
+  margin:100px auto;
+  text-align:left;
+
+
+
+}
+.skill-1{
+  width: 25%;
+  float:left;
+  margin-right:30px;
+}
+.skill-2{
+  width: 25%;
+  float:right;
+  margin-left:30px;
+
+}
+.skills{
+line-height: 2;
+}
+hr{
+  background-color:#fcbad3;
+  border-style:none;
+  border-width:5px;
+  width:50%;
+
+  border-top-style:dotted;
+}
+.middle-container{
+
+background: linear-gradient(to top, #fff,#FFcbcb);
+
+}
+.bottom-container{
+background-color:#fff;
+
+}
+h2{
+
+  font-size:2.5rem;
+  color:red;
+}
+p{
+  font-size: 25px;
+}
+body{
+  margin:0;
+  text-align:center;
+  font-family:"Patrick Hand";
+}
+
+h1{
+  margin:0;
+  font-family: 'Sacramento';
+  font-size:6rem;
+margin-top:50px;
+margin-bottom: 50PX;
+color:red;
+}
+#programmer{
+  font-weight: normal;
+}
+.bottom-cloud{
+  position:absolute;
+  top:205px;
+
+}
+h2,h3{
+  font-family:"Delius Unicase"
+}
+.top-cloud{
+  position: absolute;
+  top:10px;
+  right:700px;
+}
+h3,a{
+  color:#ff0303;
+}
+.contact-message{
+  width:40%;
+  margin: 40px auto;
+}
+.myButton {
+	background:linear-gradient(to bottom, #e4685d 5%, #eb675e 100%);
+	background-color:#e4685d;
+	border-radius:25px;
+	border:2px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:19px 53px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #eb675e 5%, #e4685d 100%);
+	background-color:#eb675e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+a{
+  color: black;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:red;
+  
+}
